@@ -1,0 +1,1 @@
+# SINE-Advanced-Embedding-And-Discretization-For-MPE-in-PGMs
